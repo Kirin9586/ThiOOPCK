@@ -1,0 +1,12 @@
+F:\FF\Ho_Anh_Tuan_1706020096\Ho_Anh_Tuan_1706020096\bin\Debug\Ho_Anh_Tuan_1706020096.exe.config
+F:\FF\Ho_Anh_Tuan_1706020096\Ho_Anh_Tuan_1706020096\bin\Debug\Ho_Anh_Tuan_1706020096.exe
+F:\FF\Ho_Anh_Tuan_1706020096\Ho_Anh_Tuan_1706020096\bin\Debug\Ho_Anh_Tuan_1706020096.pdb
+F:\FF\Ho_Anh_Tuan_1706020096\Ho_Anh_Tuan_1706020096\bin\Debug\Newtonsoft.Json.dll
+F:\FF\Ho_Anh_Tuan_1706020096\Ho_Anh_Tuan_1706020096\obj\Debug\Ho_Anh_Tuan_1706020096.csprojAssemblyReference.cache
+F:\FF\Ho_Anh_Tuan_1706020096\Ho_Anh_Tuan_1706020096\obj\Debug\Ho_Anh_Tuan_1706020096.Form1.resources
+F:\FF\Ho_Anh_Tuan_1706020096\Ho_Anh_Tuan_1706020096\obj\Debug\Ho_Anh_Tuan_1706020096.Properties.Resources.resources
+F:\FF\Ho_Anh_Tuan_1706020096\Ho_Anh_Tuan_1706020096\obj\Debug\Ho_Anh_Tuan_1706020096.csproj.GenerateResource.cache
+F:\FF\Ho_Anh_Tuan_1706020096\Ho_Anh_Tuan_1706020096\obj\Debug\Ho_Anh_Tuan_1706020096.csproj.CoreCompileInputs.cache
+F:\FF\Ho_Anh_Tuan_1706020096\Ho_Anh_Tuan_1706020096\obj\Debug\Ho_Anh_Tuan_1706020096.csproj.CopyComplete
+F:\FF\Ho_Anh_Tuan_1706020096\Ho_Anh_Tuan_1706020096\obj\Debug\Ho_Anh_Tuan_1706020096.exe
+F:\FF\Ho_Anh_Tuan_1706020096\Ho_Anh_Tuan_1706020096\obj\Debug\Ho_Anh_Tuan_1706020096.pdb
